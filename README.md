@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Pippoo! 
+# Hi there 👋, I'm Deep! 
 
 ## 🚀 About Me
 I'm a passionate AIML student and a Python enthusiast who loves creating practical projects that solve real problems. I enjoy blending creativity with code, building applications that are both functional and user-friendly.
 
-- 🎓 Currently in 3rd year of AIML studies  
+- 🎓 Currently in 4th year of AIML studies  
 - 🐕 Dog breed classifier creator using EfficientNet with ~90% accuracy  
 - 🔐 Security enthusiast with projects like **Pass_Genrator**  
 - 🌱 Always learning new frameworks and sharpening my skills  
@@ -29,8 +29,8 @@ I'm a passionate AIML student and a Python enthusiast who loves creating practic
 
 ## 📫 How to reach me  
 - GitHub: [github.com/Pippoo26](https://github.com/Pippoo26)  
-- Email: (Add your email here if you want)  
-- LinkedIn: (Add LinkedIn URL if you want)  
+- Email: ranadeep0088@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/deep-rana2607/
 
 ---
 
@@ -38,4 +38,3 @@ I'm a passionate AIML student and a Python enthusiast who loves creating practic
 
 ---
 
-*Made with ❤️ by Pippoo*
